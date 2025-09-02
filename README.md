@@ -1,32 +1,16 @@
 Project Title
-A brief description of what this project does and who it's for
+its first try 
 
-Used By
-This project is used by the following companies:
 
-Company 1
-Company 2
-Running Tests
-To run tests, run the following command
-
-  npm run test
 Support
-For support, email fake@fake.com or join our Slack channel.
-
-Related
-Here are some related projects
-
-Awesome README
+email@bood.gmail.com.
 
 Logo
 
-Installation
-Install my-project with npm
 
-  npm install my-project
-  cd my-project
 🛠 Skills
 Javascript, HTML, CSS...
+
 
 Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
